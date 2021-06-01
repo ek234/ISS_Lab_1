@@ -1,5 +1,1 @@
 Mihir RAWAT
-<<<<<<< HEAD
-diff
-different
->>>>>>> other_details
